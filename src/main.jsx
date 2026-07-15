@@ -27,7 +27,7 @@ const profile = {
   email: "sobaannajmii567@gmail.com",
   linkedin: "https://www.linkedin.com/in/syed-sobaan-najmi/",
   github: "https://github.com/Sobaan567",
-  cv: "https://drive.google.com/file/d/1HqqUH4GkQPkYl2pKQBzkkVgKJzOojtX6/view?usp=drivesdk",
+  cv: "https://drive.google.com/file/d/1CrKaTulBILyS7IGwfjlTigIPBp265hyw/view?usp=sharing",
   huggingFace: "https://huggingface.co/Sobaan567",
   kaggle: "https://www.kaggle.com/sobaannajmi",
   langSmith: "https://smith.langchain.com/public/syed-sobaan-najmi",
